@@ -13,7 +13,7 @@
 }
 
 .sheep {
-  background-image: url("/src/sheep.jpg");
+  background-image: url("/assets/sheep.jpg");
   background-position: top;
   width: 500px;
   height: 200px;
