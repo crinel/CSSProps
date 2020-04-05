@@ -1,3 +1,3 @@
 # CSSProps
 
-Small Examples to use CSS Stiles
+Small Examples to use CSS Styles
